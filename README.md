@@ -11,4 +11,4 @@ Football.R analyzes the interaction between players in each match using social n
 ## Match success rate
 
 Football_network_gee.R analyzes the association between match success rate and social network interaction per match per player, 
-including variates such as player's age, country of origin, and other information.
+including variates such as player's age, country of origin, and other information, with generalized estimating equation package in R.
